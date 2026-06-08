@@ -1,0 +1,16 @@
+{
+  "title": "autoMIC: Automated MIC Calculation from 96‑Well Plate Data",
+  "description": "A Google Colab tool that calculates MIC values from plate reader data, generates a dose‑response curve and heatmap, and provides CLSI/EUCAST clinical interpretations.",
+  "creators": [
+    {
+      "name": "Vidhu Smitha Vijay"
+    },
+    {
+      "name": "Oudlin Mary Lenin"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["MIC", "antibiotic resistance", "microbiology", "plate reader", "Colab"],
+  "upload_type": "software",
+  "access_right": "open"
+}
