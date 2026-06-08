@@ -1,0 +1,23 @@
+cff-version: 1.1.0
+title: "autoMIC: Automated MIC Calculation from 96‑Well Plate Data"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - given-names: "Vidhu Smitha"
+    family-names: "Vijay"
+  - given-names: "Oudlin Mary"
+    family-names: "Lenin"
+repository-code: "https://github.com/Vidhusv/autoMIC"
+license: MIT
+doi: 10.5281/zenodo.20590057
+date-released: 2026-06-08
+abstract: >
+  A Google Colab tool that calculates minimum inhibitory concentrations (MICs)
+  from 96‑well plate reader data, generates a dose‑response curve and heatmap,
+  and provides CLSI/EUCAST clinical interpretations.
+keywords:
+  - MIC
+  - antibiotic resistance
+  - microbiology
+  - plate reader
+  - Colab
